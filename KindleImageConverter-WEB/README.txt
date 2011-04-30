@@ -1,0 +1,1 @@
+An ASP.NET website to convert images into Kindle Screensavers. Uses same code as EXE version - just more convenient

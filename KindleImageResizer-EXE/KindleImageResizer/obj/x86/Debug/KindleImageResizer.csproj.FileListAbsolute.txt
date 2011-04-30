@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\bin\Debug\KindleImageResizer.exe
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\bin\Debug\KindleImageResizer.pdb
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\KindleImageResizer.Form1.resources
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\KindleImageResizer.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\KindleImageResizer.exe
+c:\users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Debug\KindleImageResizer.pdb

@@ -1,0 +1,18 @@
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\bin\Release\KindleImageResizer.exe
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\bin\Release\KindleImageResizer.pdb
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.Form1.resources
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.Properties.Resources.resources
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.exe
+C:\Users\michael\documents\visual studio 2010\Projects\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.pdb
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.exe
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.pdb
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\bin\Release\KindleImageResizer.exe
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\bin\Release\KindleImageResizer.pdb
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.Form1.resources
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\KindleImageResizer.Properties.Resources.resources
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\michael\Documents\git\General\KindleImageResizer\KindleImageResizer\obj\x86\Release\GenerateResource.write.1.tlog

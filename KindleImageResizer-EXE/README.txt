@@ -1,0 +1,1 @@
+A C# application to convert images into Amazon Kindle screensavers - 600x800 or 824x1200 grayscale jpgs
