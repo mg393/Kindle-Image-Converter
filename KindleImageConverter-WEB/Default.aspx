@@ -28,10 +28,6 @@
     <br />
             <asp:Button ID="buttonConvert" runat="server" onclick="buttonConvert_Click" Text="Convert" />
         
-            <br />
-            <br />
-            EXE Version: <a href="http://code.google.com/p/kindle-screensaver-resizer/">
-            http://code.google.com/p/kindle-screensaver-resizer/</a><br />
             
          </center>
          </div>
