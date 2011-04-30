@@ -1,0 +1,1 @@
+Some C# code to convert an image into an Amazon Kindle screensaver, made into both an EXE and an ASP.net site which can be found hosted at http://kindleimageconverter.co.cc/
